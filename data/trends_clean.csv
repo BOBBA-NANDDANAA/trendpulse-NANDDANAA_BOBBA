@@ -1,0 +1,91 @@
+post_id,title,category,score,num_comments,author,collected_at
+47618189,Tailscale's new macOS home,technology,221,102,tosh,2026-04-02 17:14:16.075666
+47617415,Good ideas do not need lots of lies in order to gain public acceptance (2008),technology,88,29,sedev,2026-04-02 17:14:16.076739
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,393,93,AbuAssar,2026-04-02 17:14:16.077431
+47617376,OpenAI Acquires TBPN,technology,109,82,surprisetalk,2026-04-02 17:14:16.078519
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,239,180,mooreds,2026-04-02 17:14:16.079100
+47611921,Significant Raise of Reports,technology,260,136,stratos123,2026-04-02 17:14:16.079759
+47615876,The case for zero-error horizons in trustworthy LLMs,technology,63,87,daigoba66,2026-04-02 17:14:16.080364
+47619322,A $20/month user costs OpenAI $65 in compute. AI video is a money furnace,technology,30,10,Aedelon,2026-04-02 17:14:16.080960
+47620426,Amazon data center in Bahrain attacked by Iranian Revolutionary Guards,technology,11,0,topherPedersen,2026-04-02 17:14:16.081568
+47596739,Mercor says it was hit by cyberattack tied to compromise LiteLLM,technology,135,43,jackson-mcd,2026-04-02 17:14:16.082152
+47620381,AWS has officially removed all EC2 instances in Bahrain from their docs,technology,8,0,mirzap,2026-04-02 17:14:16.082666
+47620155,Marc Andreessen Is Right That AI Isn't Killing Jobs. Interest Rate Hikes Are,technology,10,1,bigbobbeeper,2026-04-02 17:14:16.083147
+47612558,Enabling Codex to Analyze Two Decades of Hacker News Data,technology,67,27,ronfriedhaber,2026-04-02 17:14:16.083584
+47617463,Users say Adobe Creative Cloud rewrote hosts file to detect installed app,technology,41,3,bobsoap,2026-04-02 17:14:16.084034
+47609694,Email obfuscation: What works in 2026?,technology,329,93,jaden,2026-04-02 17:14:16.084472
+47618322,Mistral secures $830M in debt financing to fund AI data center,technology,25,2,gmays,2026-04-02 17:14:16.085143
+47588103,"On the trail of ancient art, deep in the Sahara",technology,25,3,bookofjoe,2026-04-02 17:14:16.085882
+47557385,The revenge of the data scientist,technology,167,35,hamelsmu,2026-04-02 17:14:16.086387
+47610245,Things I Think I Think... Preferring Local OSS LLMs,technology,38,8,zdw,2026-04-02 17:14:16.086837
+47618324,Ask HN: European Tech Alternatives?,technology,88,51,BrunoBernardino,2026-04-02 17:14:16.087274
+47616665,Group Pushing Age Verification for AI Turns Out to Be Backed by OpenAI,technology,27,4,SilverElfin,2026-04-02 17:14:16.087636
+47610336,r/programming bans all discussion of LLM programming,technology,178,182,cryptoz,2026-04-02 17:14:16.088017
+47617491,Artemis II astronaut finds two Outlook instances running on computers,technology,11,2,taubek,2026-04-02 17:14:16.088380
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),technology,196,80,wazHFsRy,2026-04-02 17:14:16.088678
+47599510,"Random numbers, Persian code: A mysterious signal transfixes radio sleuths",technology,124,120,thinkingemote,2026-04-02 17:14:16.088982
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,378,131,pretext,2026-04-02 17:14:16.089350
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,226,101,Growtika,2026-04-02 17:14:16.089851
+47613668,Show HN: Abject: the first self-aware object runtime,worldnews,7,2,mempko,2026-04-02 17:14:16.092766
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),worldnews,149,41,jkool702,2026-04-02 17:14:16.093258
+47577761,Fedware: Government apps that spy harder than the apps they ban,worldnews,680,277,speckx,2026-04-02 17:14:16.093815
+47612035,UK Government unveils rules to end subscription traps,worldnews,22,6,_____k,2026-04-02 17:14:16.094370
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,85,114,vrganj,2026-04-02 17:14:16.094794
+47578572,Turning a MacBook into a touchscreen with $1 of hardware (2018),worldnews,406,230,HughParry,2026-04-02 17:14:16.095168
+47620365,Tehran Accuses Ukraine of Active Participation in Iran War,worldnews,6,1,alephnerd,2026-04-02 17:14:16.095584
+47606909,Cindy Cohn of the EFF Interviewed by Jon Stewart on the Daily Show [video],worldnews,34,1,latexr,2026-04-02 17:14:16.096340
+47585008,"7,655 Ransomware Claims in One Year: Group, Sector, and Country Breakdown",worldnews,61,14,adulion,2026-04-02 17:14:16.096997
+47608080,Show HN: 65k AI voters predict UK local elections with 75% accuracy,worldnews,7,9,JasonDuke,2026-04-02 17:14:16.097910
+47557299,Hardware Image Compression,worldnews,72,15,luu,2026-04-02 17:14:16.099552
+47610604,Qwen3.6-Plus: Towards Real World Agents,worldnews,20,4,meetpateltech,2026-04-02 17:14:16.100303
+47592113,"Jami – free/libre, end-to-end encrypted, and private communication software",worldnews,43,3,smartmic,2026-04-02 17:14:16.100752
+47615970,The War Against Misinformation Is Over. The Lies Won,worldnews,8,1,speckx,2026-04-02 17:14:16.101121
+47540833,Hold on to Your Hardware,worldnews,661,533,LucidLynx,2026-04-02 17:14:16.101470
+47568028,Coding agents could make free software matter again,worldnews,269,305,rogueleaderr,2026-04-02 17:14:16.101783
+47590261,Ask HN: Academic study on AI's impact on software development – want to join?,worldnews,30,15,research2026,2026-04-02 17:14:16.102093
+47590194,The one-line config that blocks most smash-and-grab supply chain attacks,worldnews,5,0,DaniAkash,2026-04-02 17:14:16.102443
+47608790,The Longest-Running Vaporware Project in the History of Computing,worldnews,12,2,YounesDz,2026-04-02 17:14:16.102934
+47609700,The Trajectory of the Iran War: Will Jiang Xueqin's Third Prediction Come True?,worldnews,5,1,salkahfi,2026-04-02 17:14:16.103529
+47590153,Facial Recognition Errors Affect Millions Globally,worldnews,6,0,pseudolus,2026-04-02 17:14:16.104021
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,708,323,hkmaxpro,2026-04-02 17:14:16.104479
+47613536,Show HN: I ran 28 OpenClaw instances as a team for 2 months,sports,11,5,TJ_FLEET,2026-04-02 17:14:16.104897
+47602986,Show HN: Real-time dashboard for Claude Code agent teams,sports,73,24,simple10,2026-04-02 17:14:16.105449
+47562342,Digitizing photos from the 1998 Game Boy Camera,sports,68,15,rockbruno,2026-04-02 17:14:16.106288
+47575403,CodingFont: A game to help you pick a coding font,sports,490,236,nvahalik,2026-04-02 17:14:16.106912
+47607775,"""Special 301"" Comments on Nintendo Game Piracy in Asia and Latin America (1994)",sports,7,0,Lammy,2026-04-02 17:14:16.107740
+47556033,rpg.actor Game Jam,sports,80,6,Kye,2026-04-02 17:14:16.108285
+47604155,SpaceX files to go public,science,382,550,nutjob2,2026-04-02 17:14:16.109220
+47617027,A forecast of the fair market value of SpaceX's businesses,science,93,168,ddp26,2026-04-02 17:14:16.109675
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,38,6,ruevs,2026-04-02 17:14:16.110063
+47572878,How-to guide: Commissioning a Sensor Physics R&D Lab,science,41,4,MagneLauritzen,2026-04-02 17:14:16.110517
+47588349,GitHub Monaspace Case Study,science,146,49,homebrewer,2026-04-02 17:14:16.111116
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,90,14,AustinDev,2026-04-02 17:14:16.111742
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,3,Edward9055,2026-04-02 17:14:16.112252
+47578086,Vulnerability research is cooked,science,253,168,pedro84,2026-04-02 17:14:16.112746
+47612775,The SpaceX IPO: retail investor notes,science,92,89,u1hcw9nx,2026-04-02 17:14:16.113198
+47586614,Open source CAD in the browser (Solvespace),science,369,125,phkahler,2026-04-02 17:14:16.113621
+47548164,"Researchers find 3,500-year-old loom that reveals textile revolution",science,132,19,geox,2026-04-02 17:14:16.114038
+47564579,The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history,science,100,25,zdw,2026-04-02 17:14:16.114528
+47585860,"In Expanding de Sitter Space, Quantum Mechanics Gets More Elusive",science,32,2,pseudolus,2026-04-02 17:14:16.114935
+47570650,Stanford study reveals AI vision models invent images they never see,science,45,0,LionTurtle13,2026-04-02 17:14:16.115411
+47605132,"SpaceX files for IPO, targets $1.75T valuation",science,11,2,AndrewDucker,2026-04-02 17:14:16.116512
+47546911,Capability-Based Security for Redox: Namespace and CWD as Capabilities,science,65,9,ejplatzer,2026-04-02 17:14:16.117072
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),entertainment,21,3,Realman78,2026-04-02 17:14:16.117571
+47612601,"Sweden goes back to basics, swapping screens for books in the classroom",entertainment,691,364,novaRom,2026-04-02 17:14:16.118018
+47618247,Show HN: SyNumpy – a Header only C++17 library for working with NumPy Arrays,entertainment,8,1,symisc_devel,2026-04-02 17:14:16.118640
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,82,51,rdme,2026-04-02 17:14:16.119094
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,48,2,nemoniac,2026-04-02 17:14:16.119507
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,138,108,kasparnoor,2026-04-02 17:14:16.119873
+47557921,Show HN: Git bayesect – Bayesian Git bisection for non-deterministic bugs,entertainment,326,43,hauntsaninja,2026-04-02 17:14:16.120296
+47613156,ReactOS Shows Improved Stability and 64-Bit Support at Chemnitz Linux Days 2026,entertainment,67,23,jeditobe,2026-04-02 17:14:16.120939
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,entertainment,23,0,mooreds,2026-04-02 17:14:16.122545
+47574871,"Show HN: Zerobox – Sandbox any command with file, network, credential controls",entertainment,134,90,afshinmeh,2026-04-02 17:14:16.124589
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,197,56,tjgreen,2026-04-02 17:14:16.125123
+47603966,Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM,entertainment,81,44,coolwulf,2026-04-02 17:14:16.125634
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",entertainment,415,153,PrismML,2026-04-02 17:14:16.126148
+47609425,Show HN: We open-sourced our content writing workflow as a Claude Code skill,entertainment,15,7,arximughal,2026-04-02 17:14:16.128634
+47609372,"Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",entertainment,10,3,joaoli131,2026-04-02 17:14:16.129642
+47594804,Show HN: Claude Code rewritten as a bash script,entertainment,51,14,rpst,2026-04-02 17:14:16.130067
+47575061,"Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better",entertainment,8,7,QWERTYmini,2026-04-02 17:14:16.130811
+47566143,My MacBook keyboard is broken and it's insanely expensive to fix,entertainment,381,535,TobiasBerg,2026-04-02 17:14:16.131266
+47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,entertainment,94,75,lukechu10,2026-04-02 17:14:16.131790
